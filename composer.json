@@ -1,0 +1,14 @@
+{
+    "name": "invirix/kineret",
+    "description": "CMS all in one",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hiroshy",
+            "email": "hiroshywissell@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

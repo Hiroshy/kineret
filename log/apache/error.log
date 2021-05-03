@@ -1,0 +1,22 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.6. Set the 'ServerName' directive globally to suppress this message
+[Sat May 01 01:45:30.842125 2021] [mpm_event:notice] [pid 22:tid 140121507079296] AH00489: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Sat May 01 01:45:30.842207 2021] [core:notice] [pid 22:tid 140121507079296] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 01 01:49:15.477212 2021] [proxy_fcgi:error] [pid 25:tid 140121493948160] [client 172.17.0.1:39964] AH01071: Got error 'PHP message: PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/index.php on line 10'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon May 03 01:36:37.957404 2021] [mpm_event:notice] [pid 22:tid 140459602031744] AH00489: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Mon May 03 01:36:37.957476 2021] [core:notice] [pid 22:tid 140459602031744] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon May 03 01:37:15.992722 2021] [mpm_event:notice] [pid 22:tid 140437772240000] AH00489: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Mon May 03 01:37:15.992790 2021] [core:notice] [pid 22:tid 140437772240000] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon May 03 01:52:38.354774 2021] [mpm_event:notice] [pid 22:tid 140072760468608] AH00489: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Mon May 03 01:52:38.354864 2021] [core:notice] [pid 22:tid 140072760468608] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon May 03 02:00:20.086327 2021] [mpm_event:notice] [pid 22:tid 139726556284032] AH00489: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Mon May 03 02:00:20.086460 2021] [core:notice] [pid 22:tid 139726556284032] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon May 03 02:11:02.401002 2021] [mpm_event:notice] [pid 22:tid 140466442675328] AH00489: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Mon May 03 02:11:02.401072 2021] [core:notice] [pid 22:tid 140466442675328] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon May 03 02:13:40.402873 2021] [mpm_event:notice] [pid 22:tid 140332124230784] AH00489: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Mon May 03 02:13:40.402944 2021] [core:notice] [pid 22:tid 140332124230784] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'

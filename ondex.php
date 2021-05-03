@@ -1,4 +1,14 @@
-<!DOCTYPE html>
+<?php
+    $path_admin =  __DIR__."admin";
+    if(file_exists("admin")):
+        echo "";
+    else:
+        
+        mkdir("admin", 0777, true);
+    endif;
+    ?>
+
+    <!DOCTYPE html>
     <html lang="en">
 
     
@@ -32,20 +42,20 @@
                 <!-- LOGO -->
                 <a href="index-2.html" class="logo text-center logo-light">
                     <span class="logo-lg">
-                        <img src="assets/images/logo.png" alt="" class="img-fluid pt-2 pl-4 pr-4">
+                        <img src="assets/images/logo.png" alt="" >
                     </span>
                     <span class="logo-sm">
-                        <img src="assets/images/logo_sm.png" alt="" height="16">
+                        <img src="assets/images/logo_sm.png" alt="" >
                     </span>
                 </a>
 
                 <!-- LOGO -->
                 <a href="index-2.html" class="logo text-center logo-dark">
                     <span class="logo-lg">
-                        <img src="assets/images/logo-dark.png" alt="" class="img-fluid pt-2 pl-4 pr-4">
+                        <img src="assets/images/logo-dark.png" alt="" >
                     </span>
                     <span class="logo-sm">
-                        <img src="assets/images/logo_sm_dark.png" alt="" height="16">
+                        <img src="assets/images/logo_sm_dark.png" alt="" >
                     </span>
                 </a>
     
